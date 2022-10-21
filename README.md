@@ -1,6 +1,7 @@
 # Context
 This was part of a school assignment, with the objective of learning how to work with OpenMP. 
 The code was written in C++. You can find more details below as well as the attached PDF for this assignment.
+Pair work was allowed for this assignment. I did this with another friend of mine @zwliew.
 
 ## Getting Started
 
