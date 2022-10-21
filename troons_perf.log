@@ -1,0 +1,326 @@
+Running troons job
+We are running on soctf-pdc-006
+
+ Performance counter stats for '/tmp/troons /tmp/test1.in':
+
+          3,537.70 msec task-clock                #    7.923 CPUs utilized          
+                 6      context-switches          #    0.002 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+               180      page-faults               #    0.051 K/sec                  
+     9,020,156,661      cycles                    #    2.550 GHz                    
+       841,122,380      instructions              #    0.09  insn per cycle         
+       159,976,843      branches                  #   45.221 M/sec                  
+         4,189,421      branch-misses             #    2.62% of all branches        
+
+       0.446520552 seconds time elapsed
+
+       3.414716000 seconds user
+       0.124536000 seconds sys
+
+
+
+ Performance counter stats for '/tmp/troons_bonus /tmp/test1.in':
+
+          5,131.51 msec task-clock                #    9.869 CPUs utilized          
+                24      context-switches          #    0.005 K/sec                  
+                 6      cpu-migrations            #    0.001 K/sec                  
+               223      page-faults               #    0.043 K/sec                  
+    12,380,017,793      cycles                    #    2.413 GHz                    
+     1,017,269,881      instructions              #    0.08  insn per cycle         
+       200,408,741      branches                  #   39.055 M/sec                  
+         5,675,260      branch-misses             #    2.83% of all branches        
+
+       0.519962166 seconds time elapsed
+
+       4.997543000 seconds user
+       0.135716000 seconds sys
+
+
+
+ Performance counter stats for '/tmp/troons_seq2 /tmp/test1.in':
+
+             23.97 msec task-clock                #    0.976 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+               134      page-faults               #    0.006 M/sec                  
+        26,278,592      cycles                    #    1.096 GHz                    
+        53,542,628      instructions              #    2.04  insn per cycle         
+        14,426,500      branches                  #  601.939 M/sec                  
+           319,492      branch-misses             #    2.21% of all branches        
+
+       0.024544293 seconds time elapsed
+
+       0.024662000 seconds user
+       0.000000000 seconds sys
+
+
+
+ Performance counter stats for '/tmp/troons /tmp/test2.in':
+
+          3,835.68 msec task-clock                #    7.926 CPUs utilized          
+                 8      context-switches          #    0.002 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+               186      page-faults               #    0.048 K/sec                  
+     9,877,154,121      cycles                    #    2.575 GHz                    
+     1,041,633,678      instructions              #    0.11  insn per cycle         
+       202,299,513      branches                  #   52.741 M/sec                  
+         4,679,392      branch-misses             #    2.31% of all branches        
+
+       0.483924234 seconds time elapsed
+
+       3.717177000 seconds user
+       0.119780000 seconds sys
+
+
+
+ Performance counter stats for '/tmp/troons_bonus /tmp/test2.in':
+
+          5,501.52 msec task-clock                #    9.900 CPUs utilized          
+                21      context-switches          #    0.004 K/sec                  
+                 6      cpu-migrations            #    0.001 K/sec                  
+               245      page-faults               #    0.045 K/sec                  
+    13,306,606,966      cycles                    #    2.419 GHz                    
+     1,192,266,679      instructions              #    0.09  insn per cycle         
+       235,359,443      branches                  #   42.781 M/sec                  
+         5,863,824      branch-misses             #    2.49% of all branches        
+
+       0.555725398 seconds time elapsed
+
+       5.379346000 seconds user
+       0.123892000 seconds sys
+
+
+
+ Performance counter stats for '/tmp/troons_seq2 /tmp/test2.in':
+
+             75.03 msec task-clock                #    0.991 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+               146      page-faults               #    0.002 M/sec                  
+       158,070,902      cycles                    #    2.107 GHz                    
+       203,007,774      instructions              #    1.28  insn per cycle         
+        64,411,594      branches                  #  858.428 M/sec                  
+         3,432,680      branch-misses             #    5.33% of all branches        
+
+       0.075683652 seconds time elapsed
+
+       0.071805000 seconds user
+       0.003989000 seconds sys
+
+
+
+ Performance counter stats for '/tmp/troons /tmp/test3.in':
+
+          3,498.11 msec task-clock                #    7.870 CPUs utilized          
+                 7      context-switches          #    0.002 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+               240      page-faults               #    0.069 K/sec                  
+     8,454,787,695      cycles                    #    2.417 GHz                    
+     1,718,009,300      instructions              #    0.20  insn per cycle         
+       341,068,668      branches                  #   97.501 M/sec                  
+         5,459,183      branch-misses             #    1.60% of all branches        
+
+       0.444508845 seconds time elapsed
+
+       3.379175000 seconds user
+       0.120112000 seconds sys
+
+
+
+ Performance counter stats for '/tmp/troons_bonus /tmp/test3.in':
+
+          5,555.60 msec task-clock                #    9.881 CPUs utilized          
+                30      context-switches          #    0.005 K/sec                  
+                 4      cpu-migrations            #    0.001 K/sec                  
+               280      page-faults               #    0.050 K/sec                  
+    13,453,231,006      cycles                    #    2.422 GHz                    
+     1,910,346,374      instructions              #    0.14  insn per cycle         
+       385,644,680      branches                  #   69.416 M/sec                  
+         6,729,752      branch-misses             #    1.75% of all branches        
+
+       0.562270138 seconds time elapsed
+
+       5.374325000 seconds user
+       0.182989000 seconds sys
+
+
+
+ Performance counter stats for '/tmp/troons_seq2 /tmp/test3.in':
+
+            228.37 msec task-clock                #    0.998 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+               233      page-faults               #    0.001 M/sec                  
+       618,263,129      cycles                    #    2.707 GHz                    
+       681,027,645      instructions              #    1.10  insn per cycle         
+       222,845,234      branches                  #  975.818 M/sec                  
+        13,513,266      branch-misses             #    6.06% of all branches        
+
+       0.228932454 seconds time elapsed
+
+       0.229025000 seconds user
+       0.000000000 seconds sys
+
+
+
+ Performance counter stats for '/tmp/troons /tmp/test4.in':
+
+          4,289.53 msec task-clock                #    7.095 CPUs utilized          
+                18      context-switches          #    0.004 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+             2,439      page-faults               #    0.569 K/sec                  
+    11,073,914,227      cycles                    #    2.582 GHz                    
+     8,763,496,061      instructions              #    0.79  insn per cycle         
+     1,812,091,398      branches                  #  422.445 M/sec                  
+         9,408,433      branch-misses             #    0.52% of all branches        
+
+       0.604620704 seconds time elapsed
+
+       4.158276000 seconds user
+       0.132582000 seconds sys
+
+
+
+ Performance counter stats for '/tmp/troons_bonus /tmp/test4.in':
+
+          6,044.64 msec task-clock                #    9.735 CPUs utilized          
+                30      context-switches          #    0.005 K/sec                  
+                 3      cpu-migrations            #    0.000 K/sec                  
+               597      page-faults               #    0.099 K/sec                  
+    14,632,865,095      cycles                    #    2.421 GHz                    
+     8,565,850,853      instructions              #    0.59  insn per cycle         
+     1,776,928,490      branches                  #  293.968 M/sec                  
+        12,751,536      branch-misses             #    0.72% of all branches        
+
+       0.620909735 seconds time elapsed
+
+       5.908108000 seconds user
+       0.138630000 seconds sys
+
+
+
+ Performance counter stats for '/tmp/troons_seq2 /tmp/test4.in':
+
+          1,668.90 msec task-clock                #    1.000 CPUs utilized          
+                 3      context-switches          #    0.002 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+             4,663      page-faults               #    0.003 M/sec                  
+     4,605,811,336      cycles                    #    2.760 GHz                    
+     5,146,141,038      instructions              #    1.12  insn per cycle         
+     1,652,333,695      branches                  #  990.071 M/sec                  
+        94,865,622      branch-misses             #    5.74% of all branches        
+
+       1.669537492 seconds time elapsed
+
+       1.657616000 seconds user
+       0.011982000 seconds sys
+
+
+
+ Performance counter stats for '/tmp/troons /tmp/test5.in':
+
+          8,135.57 msec task-clock                #    4.476 CPUs utilized          
+                13      context-switches          #    0.002 K/sec                  
+                 1      cpu-migrations            #    0.000 K/sec                  
+            33,744      page-faults               #    0.004 M/sec                  
+    21,642,816,668      cycles                    #    2.660 GHz                    
+    37,760,507,607      instructions              #    1.74  insn per cycle         
+     7,907,440,645      branches                  #  971.959 M/sec                  
+        11,473,909      branch-misses             #    0.15% of all branches        
+
+       1.817667180 seconds time elapsed
+
+       7.937326000 seconds user
+       0.199831000 seconds sys
+
+
+
+ Performance counter stats for '/tmp/troons_bonus /tmp/test5.in':
+
+          9,394.91 msec task-clock                #    9.421 CPUs utilized          
+                27      context-switches          #    0.003 K/sec                  
+                 1      cpu-migrations            #    0.000 K/sec                  
+             1,805      page-faults               #    0.192 K/sec                  
+    23,015,617,271      cycles                    #    2.450 GHz                    
+    31,174,493,316      instructions              #    1.35  insn per cycle         
+     6,468,708,256      branches                  #  688.534 M/sec                  
+        13,480,682      branch-misses             #    0.21% of all branches        
+
+       0.997261902 seconds time elapsed
+
+       9.269700000 seconds user
+       0.127857000 seconds sys
+
+
+
+ Performance counter stats for '/tmp/troons_seq2 /tmp/test5.in':
+
+          4,889.90 msec task-clock                #    1.000 CPUs utilized          
+                13      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+            67,036      page-faults               #    0.014 M/sec                  
+    14,260,898,675      cycles                    #    2.916 GHz                    
+    23,091,646,608      instructions              #    1.62  insn per cycle         
+     6,796,085,935      branches                  # 1389.822 M/sec                  
+       114,237,023      branch-misses             #    1.68% of all branches        
+
+       4.890694044 seconds time elapsed
+
+       4.770709000 seconds user
+       0.119967000 seconds sys
+
+
+
+ Performance counter stats for '/tmp/troons /tmp/test6.in':
+
+         36,501.46 msec task-clock                #    1.873 CPUs utilized          
+               125      context-switches          #    0.003 K/sec                  
+                 1      cpu-migrations            #    0.000 K/sec                  
+           624,594      page-faults               #    0.017 M/sec                  
+   100,230,420,435      cycles                    #    2.746 GHz                    
+   258,047,247,065      instructions              #    2.57  insn per cycle         
+    54,943,205,108      branches                  # 1505.233 M/sec                  
+        35,545,119      branch-misses             #    0.06% of all branches        
+
+      19.490600026 seconds time elapsed
+
+      35.305522000 seconds user
+       1.199915000 seconds sys
+
+
+
+ Performance counter stats for '/tmp/troons_bonus /tmp/test6.in':
+
+         22,424.70 msec task-clock                #    6.913 CPUs utilized          
+                49      context-switches          #    0.002 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+            23,846      page-faults               #    0.001 M/sec                  
+    56,016,811,697      cycles                    #    2.498 GHz                    
+   139,192,834,012      instructions              #    2.48  insn per cycle         
+    29,067,494,532      branches                  # 1296.226 M/sec                  
+        24,378,769      branch-misses             #    0.08% of all branches        
+
+       3.243877662 seconds time elapsed
+
+      22.237132000 seconds user
+       0.192217000 seconds sys
+
+
+
+ Performance counter stats for '/tmp/troons_seq2 /tmp/test6.in':
+
+         53,759.77 msec task-clock                #    1.000 CPUs utilized          
+               222      context-switches          #    0.004 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+         1,192,248      page-faults               #    0.022 M/sec                  
+   156,468,939,879      cycles                    #    2.911 GHz                    
+   201,886,139,847      instructions              #    1.29  insn per cycle         
+    50,395,630,160      branches                  #  937.423 M/sec                  
+       145,135,200      branch-misses             #    0.29% of all branches        
+
+      53.763381055 seconds time elapsed
+
+      51.851112000 seconds user
+       1.909587000 seconds sys
+
+
